@@ -133,13 +133,13 @@
 
 🦩**我的导航**
 
-- 项目地址：https://github.com/renzhn/MyNav
+- 项目地址：[MyNav](https://github.com/renzhn/MyNav)
 
 - 项目介绍：一个仿Windows 10界面的网页导航，初衷是为了方便访问NAS上搭建的各种服务。
 
   <details>
     <summary>🧐效果预览</summary>
-    <img src="https://raw.fastgit.org/renzhn/MyNav/master/preview1.gif">
+    <img src="https://raw.githubusercontent.com/renzhn/MyNav/master/preview2.gif">
   </details>
 
 🦩**运维导航**
