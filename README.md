@@ -131,6 +131,17 @@
     <img src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20221011_224624.png">
   </details>
 
+🦩**WebsiteGuide**
+
+- 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide)
+
+- 企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能。
+
+  <details>
+    <summary>🧐效果预览</summary>
+    <img src="https://raw.githubusercontent.com/mizhexiaoxiao/WebsiteGuide/main/websiteapp/media/sample-picture/5.jpg">
+  </details>
+
 🦩**我的导航**
 
 - 项目地址：[MyNav](https://github.com/renzhn/MyNav)
