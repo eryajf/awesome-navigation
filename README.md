@@ -153,6 +153,17 @@
     <img src="https://raw.githubusercontent.com/renzhn/MyNav/master/preview2.gif">
   </details>
 
+🦩**团队服务导航**
+
+- 项目地址：[team-nav](https://github.com/tuituidan/team-nav)
+
+- 项目介绍：前后端完整的网址导航服务，本系统定位于研发团队内部使用，提供多种的卡片图标生成方式，以保持页面美观，能将上传的原型压缩包自动生成可访问的地址。
+
+  <details>
+    <summary>🧐效果预览</summary>
+    <img src="https://raw.githubusercontent.com/tuituidan/team-nav/develop/docs/home.png">
+  </details>
+
 🦩**运维导航**
 
 - 项目地址：[daohang](https://github.com/zhuima/daohang)
