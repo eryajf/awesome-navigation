@@ -153,6 +153,17 @@
     <img src="https://raw.githubusercontent.com/renzhn/MyNav/master/preview2.gif">
   </details>
 
+🦩**naviii**
+
+- 项目地址：[naviii](https://github.com/eehhh/naviii)
+
+- 项目介绍：一个简单优雅的导航页
+
+  <details>
+    <summary>🧐效果预览</summary>
+    <img src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20221031_203154.png">
+  </details>
+
 🦩**团队服务导航**
 
 - 项目地址：[team-nav](https://github.com/tuituidan/team-nav)
