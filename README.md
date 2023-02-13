@@ -21,6 +21,23 @@
 
 ## 优秀项目
 
+🦩**van-nav**
+
+- 项目地址：[van-nav](https://github.com/Mereithhh/van-nav)
+
+- 项目介绍：一个轻量导航站，汇总你的所有服务。
+
+- 项目亮点：全平台支持，单文件部署，有配套浏览器插件。
+
+  <details>
+    <summary>🧐效果预览</summary>
+    风格一
+    <img src="https://raw.githubusercontent.com/Mereithhh/van-nav/master/images/pc-light.png">
+    <hr>
+    风格二
+    <img src="https://raw.githubusercontent.com/Mereithhh/van-nav/master/images/pc-dark.png">
+  </details>
+
 🦩**发现导航**
 
 - 项目地址：[nav](https://github.com/xjh22222228/nav)
