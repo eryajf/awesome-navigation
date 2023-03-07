@@ -203,6 +203,16 @@
     <img src="https://raw.githubusercontent.com/zhuima/daohang/master/doc/daohang_v2.png">
   </details>
 
+🦩**迷你网址导航NavSite**
+
+- 项目地址：[nav-site](https://github.com/cifaz/nav-site)
+
+- 项目介绍：公司的各种资源太多, 记不住? 这个软件将帮你大忙, 公司所有人员只需要打开这一个网站就可以清楚知道公司内部所有资源
+
+  <details>
+    <summary>🧐效果预览</summary>
+    <img src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20230307_172406.jpg">
+  </details>
 
 
 
