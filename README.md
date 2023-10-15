@@ -42,9 +42,9 @@
 
 - 项目地址：[nav](https://github.com/xjh22222228/nav)
 
-- 项目介绍：纯静态、支持SEO、支持在线编辑的强大导航网站，提供了四种主题风格。
+- 项目介绍：纯静态、支持 SEO、支持在线编辑的强大导航网站，提供了四种主题风格。
 
-- 项目亮点：因为是纯静态，因此支持直接基于GitHub Pages以及Vercel这种方式进行部署，比较友好，也支持直接将Chrome浏览器书签导入，比较不错。
+- 项目亮点：因为是纯静态，因此支持直接基于 GitHub Pages 以及 Vercel 这种方式进行部署，比较友好，也支持直接将 Chrome 浏览器书签导入，比较不错。
 
   <details>
     <summary>🧐效果预览</summary>
@@ -61,13 +61,13 @@
     <img src="https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/5.png">
   </details>
 
-🦩**Webstack网址导航**
+🦩**Webstack 网址导航**
 
 - 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)
 
 - 项目介绍：静态响应式网址导航网站
 
-- 项目亮点：原作者写了一个纯html渲染的静态导航，又有很多其他开发者在此基础之上开发了一系列带有后台的导航程序，俨然形成了一个WebStack导航宇宙。
+- 项目亮点：原作者写了一个纯 html 渲染的静态导航，又有很多其他开发者在此基础之上开发了一系列带有后台的导航程序，俨然形成了一个 WebStack 导航宇宙。
 
   <details>
     <summary>🧐效果预览</summary>
@@ -76,22 +76,21 @@
 
 - 其他版本
 
-  - Hexo版：[https://github.com/HCLonely/hexo-theme-webstack](https://github.com/HCLonely/hexo-theme-webstack)
-  - Hugo版风格一：[https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
-  - Hugo版风格二：[https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
-  - Java版：[https://github.com/jsnjfz/WebStack-Guns](https://github.com/jsnjfz/WebStack-Guns)
-  - Typecho版：[https://www.zmki.cn/5366.html](https://www.zmki.cn/5366.html)
-  - Vue版：[https://github.com/Anjaxs/WebStack-vue/tree/master](https://github.com/Anjaxs/WebStack-vue/tree/master)
+  - Hexo 版：[https://github.com/HCLonely/hexo-theme-webstack](https://github.com/HCLonely/hexo-theme-webstack)
+  - Hugo 版风格一：[https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
+  - Hugo 版风格二：[https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
+  - Java 版：[https://github.com/jsnjfz/WebStack-Guns](https://github.com/jsnjfz/WebStack-Guns)
+  - Typecho 版：[https://www.zmki.cn/5366.html](https://www.zmki.cn/5366.html)
+  - Vue 版：[https://github.com/Anjaxs/WebStack-vue/tree/master](https://github.com/Anjaxs/WebStack-vue/tree/master)
   - flask-blog-platform：[https://github.com/shitianfang/flask-blog-platform/tree/master](https://github.com/shitianfang/flask-blog-platform/tree/master)
 
 🦩**OneNav**
 
-
 - 项目地址：[onenav](https://github.com/helloxz/onenav)
 
-- 项目介绍：使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
+- 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
-- 项目亮点：有后台管理，支持多种主题风格，支持Chrome/Firefox/Edge书签批量导入，支持链接信息自动识别，支持utools插件等功能。
+- 项目亮点：有后台管理，支持多种主题风格，支持 Chrome/Firefox/Edge 书签批量导入，支持链接信息自动识别，支持 utools 插件等功能。
 
   <details>
     <summary>🧐效果预览</summary>
@@ -145,14 +144,14 @@
 
   <details>
     <summary>🧐效果预览</summary>
-    <img src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20221011_224624.png">
+    <img src="https://cdn.jsdelivr.net/gh/eryajf/tu/img/image_20221011_224624.png">
   </details>
 
 🦩**WebsiteGuide**
 
 - 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide)
 
-- 企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能。
+- 企业内部网址导航系统，基于 Python+Django+Vue 开发，具有网址导航、网址管理、用户管理等功能。
 
   <details>
     <summary>🧐效果预览</summary>
@@ -163,7 +162,7 @@
 
 - 项目地址：[MyNav](https://github.com/renzhn/MyNav)
 
-- 项目介绍：一个仿Windows 10界面的网页导航，初衷是为了方便访问NAS上搭建的各种服务。
+- 项目介绍：一个仿 Windows 10 界面的网页导航，初衷是为了方便访问 NAS 上搭建的各种服务。
 
   <details>
     <summary>🧐效果预览</summary>
@@ -178,7 +177,7 @@
 
   <details>
     <summary>🧐效果预览</summary>
-    <img src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20221031_203154.png">
+    <img src="https://cdn.jsdelivr.net/gh/eryajf/tu/img/image_20221031_203154.png">
   </details>
 
 🦩**团队服务导航**
@@ -203,7 +202,7 @@
     <img src="https://raw.githubusercontent.com/zhuima/daohang/master/doc/daohang_v2.png">
   </details>
 
-🦩**迷你网址导航NavSite**
+🦩**迷你网址导航 NavSite**
 
 - 项目地址：[nav-site](https://github.com/cifaz/nav-site)
 
@@ -211,10 +210,8 @@
 
   <details>
     <summary>🧐效果预览</summary>
-    <img src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20230307_172406.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/eryajf/tu/img/image_20230307_172406.jpg">
   </details>
-
-
 
 ## 优秀导航
 
