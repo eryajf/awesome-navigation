@@ -216,3 +216,4 @@
 ## 优秀导航
 
 - [前端导航](https://mengsixing.github.io/front-end-navigation/)：收集前端开发者最常用的网站。
+- [DSH Meme Hub](https://dsh-meme-hub.cdqyfdbymn.me/)：DeepSeek Harness 社区插件导航站，收录 87+ 个社区插件与整活项目，分类清晰，附 star 排行与一键安装。
