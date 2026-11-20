@@ -216,3 +216,5 @@
 ## 优秀导航
 
 - [前端导航](https://mengsixing.github.io/front-end-navigation/)：收集前端开发者最常用的网站。
+
+- [资料星球](https://resources.packscena.com/)：中文学习与创作资料导航，按大类、主题与关键词查找，支持目录预览和本地收藏，跳转夸克领取；当前免费，未来部分资料可能收费（运营者 Jake Tao 自荐，AI 协助）。
